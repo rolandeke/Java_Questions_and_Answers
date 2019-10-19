@@ -1,0 +1,1 @@
+Created this file when I first learned how to clone and commit a repository using the git command line commands. It was really fun
